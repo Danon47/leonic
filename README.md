@@ -15,7 +15,7 @@
 ## Как запустить проект
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/ваш-репозиторий.git
+   git clone https://github.com/Danon47/leonic.git
 2. Перейдите в папку проекта
 
 3. Откройте файл index.html в браузере
